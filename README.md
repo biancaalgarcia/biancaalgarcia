@@ -291,6 +291,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
 </div>
+<div style="clear: both;"></div>
 <div align="center">
 <h1>Redes Sociais</h1>
 </div>
