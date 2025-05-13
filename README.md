@@ -9,7 +9,6 @@
 
 <div align="center">
 
-
   <img 
     align="left" 
     alt="Adobe After Effects" 
@@ -292,9 +291,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
 </div>
-<div> 
+
+<div align="center">
   <a href="https://instagram.com/biancaalgarcia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "biancadqreal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://linkedin.com/in/bihg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
