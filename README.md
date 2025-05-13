@@ -63,4 +63,4 @@
 
 ---
 
-![snake gif](https://github.com/biancaalgarcia/biancaalgarcia/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/biancaalgarcia/biancaalgarcia/output/snake.svg" alt="Snake animation" />
