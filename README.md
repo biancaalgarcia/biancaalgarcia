@@ -6,6 +6,8 @@
 
 </div>
 <div align="center">
+</div>
+<div align="center">
   <img 
     align="left" 
     alt="HTML"
