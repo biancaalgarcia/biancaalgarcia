@@ -298,3 +298,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
 </div>
+## Watch snake eating my github contributions 
+ 
+![snake_gif](https://github.com/biancaalgarcia/biancaalgarcia/blob/output/github-snake-dark.svg)
