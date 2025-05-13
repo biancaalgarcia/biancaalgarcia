@@ -71,4 +71,60 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" 
 />
+  <img 
+    align="left" 
+    alt="Android Studio" 
+    title="Android Studio"
+    width="90px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+/>
+  <img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="90px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+/>
+  <img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="90px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+  <img 
+    align="left" 
+    alt="Canva" 
+    title="Canva"
+    width="90px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+/>
+  <img 
+    align="left" 
+    alt="C Plus Plus" 
+    title="C Plus Plus"
+    width="90px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+  <img 
+    align="left" 
+    alt="Discord Js" 
+    title="Discord Js"
+    width="90px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" 
+/>
+  <img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="90px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
 </div>
