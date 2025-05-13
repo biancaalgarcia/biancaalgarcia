@@ -298,7 +298,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
 </div>
-
+<div align="Center>
 ![snake gif](https://github.com/biancaalgarcia/biancaalgarcia/blob/output/github-contribution-grid-snake.svg)
 
+</div?
 
