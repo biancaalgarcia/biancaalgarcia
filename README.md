@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaalgarcia&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 
 </div>
-## Tecnologias usadas 🖥️💻
+<h2>Tecnologias usadas 💻🖥️</h2>
 <div align="center">
   <img 
     align="left" 
