@@ -6,16 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaalgarcia&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
 </div>
 
-<div align="center">
-  <h1>Redes Sociais</h1>
-  <a href="https://instagram.com/biancaalgarcia" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="http://linkedin.com/in/bihg/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
-
 ## Tecnologias usadas 💻🖥️
 
 <div align="center">
@@ -57,6 +47,17 @@
   <img alt="Windows 11" title="Windows 11" width="90px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 
 </div>
+
+<div align="center">
+  <h1>Redes Sociais</h1>
+  <a href="https://instagram.com/biancaalgarcia" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="http://linkedin.com/in/bihg/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
+
 
 <br><br><br>
 
