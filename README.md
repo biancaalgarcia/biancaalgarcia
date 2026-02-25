@@ -14,10 +14,10 @@
 
 <div align="center">
   <h1>Redes Sociais</h1>
-  <a href="https://instagram.com/biancaalgarcia" target="_blank">
+  <a href="https://instagram.com/meninabih" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="http://linkedin.com/in/bihg/" target="_blank">
+  <a href="http://linkedin.com/in/biancaalgarcia/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
