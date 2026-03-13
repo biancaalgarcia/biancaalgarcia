@@ -27,4 +27,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/biancaalgarcia/biancaalgarcia/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/biancoding/biancoding/output/snake.svg" alt="Snake animation" />
